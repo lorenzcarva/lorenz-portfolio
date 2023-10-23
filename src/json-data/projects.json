@@ -1,0 +1,20 @@
+[
+  {
+    "id": 1,
+    "title": "Activio",
+    "desc": [],
+    "img": "assets/projects/activio.PNG"
+  },
+  {
+    "id": 2,
+    "title": "System Calls on Linux",
+    "desc": [],
+    "img": "assets/projects/system_calls.PNG"
+  },
+  {
+    "id": 3,
+    "title": "PCB Design",
+    "desc": [],
+    "img": "assets/projects/pcb.PNG"
+  }
+]

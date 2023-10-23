@@ -1,0 +1,15 @@
+[
+  {
+    "id": 1,
+    "company": "SHPE @ UF",
+    "role": "Design Team Director - Autonomous Vehicles",
+    "dates": "May 2023 - Present",
+    "desc": [
+      "Prepare a project by compiling a timeline, budget, and tutorials to introduce approved members to mechatronics and guide them through the collaborative process of designing an autonomous vehicle, with two teams of computer, mechanical, aerospace, chemical, and biomedical engineers",
+      "Construct sensor circuits for the vehicle using ultrasonic distance sensors for collision avoidance, infrared light sensors for lane assistance, motor drivers to control DC motors for forward/backward movement, and servo motors for steering",
+      "Operate circuits using a Raspberry Pi microprocessor to communicate pulse-width modulated signals through general-purpose input/output pins and interpret live sensor data in an algorithm that allows the robot to maneuver around obstacles and follow a line, as well as incorporate image processing into the vehicle’s algorithm by attaching a camera that transmits video data to the microprocessor in order to recognize street signs that signify different commands: stop, left/right turn, and speed limits",
+      "Engage teams in modular competitions by evaluating each component, emphasizing innovation, problem-solving, and efficient engineering practices"
+    ],
+    "img": "assets/experiences/shpe.png"
+  }
+]

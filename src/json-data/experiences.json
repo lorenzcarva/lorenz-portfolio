@@ -1,0 +1,27 @@
+[
+  {
+    "id": 1,
+    "company": "IT Institute for Advanced Study",
+    "role": "Undergraduate Research Intern",
+    "dates": "May 2023 - Present",
+    "desc": [
+      "Emulate various software-defined fifth-generation (5G) wireless topologies using the Mininet-WiFi Python API and CLI on a Linux Virtual Machine to demonstrate the differences in architecture and behavior and study propagation models",
+      "Implement mobility scenarios by specifying start and end times, mobility models, and velocity parameters to control the movement of station and access points to illustrate the OpenFlow protocol on switches that control packet associations and paths",
+      "Analyze received and transmitted data via WireShark packet analyzer as well as throughput via IPerf and GnuPlot to verify functionality of OpenFlow-enabled switches that require manual resetting for operations in a mobility scenario",
+      "Integrate independent topologies and emulate a Heterogeneous Software-Defined Wireless Network using Internet Protocol subnet masking, mobility, and OpenFlow controller manipulation to exemplify the compatibility of real-world systems as well as pave the way for efficient multi-Radio Access Technology (RAT) handover and centralization of the control plane to push for the next generation of wireless technology"
+    ],
+    "img": "assets/experiences/itias.png"
+  },
+  {
+    "id": 2,
+    "company": "Wireless and Mobile Systems Lab @ UF Herbert Wertheim College of Engineering",
+    "role": "Undergraduate Research Assistant",
+    "desc": [
+      "Adapt the Mininet-WiFi backend using the Python API and a Multi Criteria Decision Making (MCDM) based handover algorithm to improve the spectral efficiency of cellular systems",
+      "Inspect functionality of algorithm using a multi-RAT testbed with the random direction mobility model and log-distance propagation model to record real-time data for each handover attempt: Received Signal Strength Indicators (RSSI), delay, and total throughput",
+      "Explore simulation results for various scenarios using varying quantities and speeds of base stations and access points, comparing results to the original baseline approach and determining efficiency of the custom algorithm"
+    ],
+    "dates": "May 2023 - Present",
+    "img": "assets/experiences/hwcoe.jpg"
+  }
+]
