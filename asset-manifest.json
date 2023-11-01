@@ -1,16 +1,16 @@
 {
   "files": {
     "main.css": "/lorenz-portfolio/static/css/main.95943561.css",
-    "main.js": "/lorenz-portfolio/static/js/main.87d712ab.js",
+    "main.js": "/lorenz-portfolio/static/js/main.f4df864e.js",
     "static/media/revicons.eot": "/lorenz-portfolio/static/media/revicons.a77de540a38981833f9e.eot",
     "static/media/revicons.ttf": "/lorenz-portfolio/static/media/revicons.57fd05d4ae650374c8de.ttf",
     "static/media/revicons.woff": "/lorenz-portfolio/static/media/revicons.e8746a624ed098489406.woff",
     "index.html": "/lorenz-portfolio/index.html",
     "main.95943561.css.map": "/lorenz-portfolio/static/css/main.95943561.css.map",
-    "main.87d712ab.js.map": "/lorenz-portfolio/static/js/main.87d712ab.js.map"
+    "main.f4df864e.js.map": "/lorenz-portfolio/static/js/main.f4df864e.js.map"
   },
   "entrypoints": [
     "static/css/main.95943561.css",
-    "static/js/main.87d712ab.js"
+    "static/js/main.f4df864e.js"
   ]
 }
